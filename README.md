@@ -1,5 +1,14 @@
 # Machine Learning Assignment 1
 ## Morgan Reilly -- 20235398
+## Environment Setup -- Linux (Using Python 3 | Pip Virtual Environment)
+* Download requirements.txt
+* Create Virtual Environment
+* `$ python3 -m venv venv`
+* Populate virtual environment with pip packages
+* `$ venv/bin/pip3 install -r requirements.txt`
+* Activate Virtual Environment
+* `$ source venv/bin/activate`
+
 ### Project Outline
 * Research what open-source machine learning packages are available, and select one that you think will be appropriate for this task. Your report should include a brief justification for your choice and an overview of the main features of the package you have chosen. [4 marks max.]
 * A dataset is supplied below. You will probably need to do some work to prepare it for input into the ML package, depending on the package’s requirements. Document any data preparation steps in your report. [2 marks max.]
