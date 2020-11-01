@@ -8,6 +8,10 @@
 * `$ venv/bin/pip3 install -r requirements.txt`
 * Activate Virtual Environment
 * `$ source venv/bin/activate`
+## Run Application
+* Assuming correct environment setup and in project directory
+* `$ jupyter notebook`
+* Select the .ipynb file
 
 ### Project Outline
 * Research what open-source machine learning packages are available, and select one that you think will be appropriate for this task. Your report should include a brief justification for your choice and an overview of the main features of the package you have chosen. [4 marks max.]
